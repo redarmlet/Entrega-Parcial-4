@@ -1,4 +1,4 @@
-INFORMACIÓN DE USUARIOS
+"""INFORMACIÓN DE USUARIOS
 
 Al ingresar la opción 1: Se debe permitir ingresar el nombre del usuario, sexo y clave, por separado.,
 Para que el ingreso del usuario sea exitoso, se debe compartir lo siguiente:
@@ -15,7 +15,7 @@ Al ingresar la opción 4: Preguntar si decide continuar buscando usuarios o sali
 Si el ingreso de una opción distinta debe mostrar un mensaje que debe seleccionar una opción válida.
 Todas las opciones del menú deben estar implementadas separadas del código principal (main():)
 
-
+"""
 def ingresar_usuario():
 
   while True:
