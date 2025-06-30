@@ -1,4 +1,4 @@
-EJERCICIO 1: 
+"""EJERCICIO 1: 
 La fundación duoc UC solicita servicios profesionales para desarrollar un sistema que le permita almacenar
 los datos personales de cada uno de sus estudiantes,
 nombre apellido rut correo elec. 
@@ -6,7 +6,7 @@ Carrera dentro de la carrera se inserta la sg lista, gastronomía, ingeniería y
 Ingenieria: desarrollo web, Móvil y desarrollo escritorio
 Analista: análisis dashboard limpieza dashboard, creación de dashboard
 Gastronomia: historia gastronomía sopaipilla alimento natural y procesado
-
+"""
 carreras = {
     "Ingenieria": ["Desarrollo web", "Móvil", "Desarrollo escritorio"],
     "Analista": ["Análisis dashboard", "Limpieza dashboard", "Creación de dashboard"],
