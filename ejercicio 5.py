@@ -1,4 +1,4 @@
-Haz un programa que permita generar un menu, de gestión de entradas para el concierto de GitHub con movimients originales
+"""Haz un programa que permita generar un menu, de gestión de entradas para el concierto de GitHub con movimients originales
 con su diferentes shows el menu principal debe permitir mostrar 4 opciones
 1- Ventas de entradas
 2- Cambio de show
@@ -23,3 +23,4 @@ Al ingresar la opción numero 2 el menu debe permitir cambiar la entrada a un sh
 Al ingresar la opcion numero 3 el menundebe permitir mistrar el total de entradas disponibles para cada una de las funciones 
 Al ingresar la opcion nunero 4 'salir del sistema', si el usuario comete un error y desea ingresar una opción que no es permitida
 lo invitaremos a ingresar las opciones permitidas.
+"""
